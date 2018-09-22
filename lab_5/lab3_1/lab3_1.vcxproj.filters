@@ -26,13 +26,8 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="lab1_6.cpp">
+    <ClCompile Include="lab3_1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="F1.txt">
-      <Filter>Исходные файлы</Filter>
-    </Text>
   </ItemGroup>
 </Project>

@@ -1,0 +1,2 @@
+Hamilton Cycle: 
+1 2 4 3 min length: 51
